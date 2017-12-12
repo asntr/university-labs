@@ -1,0 +1,14 @@
+{
+  "language": [
+    "C++", "Prolog", "Java", "Python", "Scala", "Lua", "Limbo"
+  ],
+  "paradigm": [
+    "multi-paradigm", "logical", "object-oriented", "functional"
+  ],
+  "year": [
+    "<1994", ">1994"
+  ],
+  "compiled": [
+    "yes", "no"
+  ]
+}

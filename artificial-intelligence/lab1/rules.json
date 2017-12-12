@@ -1,0 +1,110 @@
+[
+  {
+    "conditions": {
+      "paradigm": "object-oriented",
+      "compiled": "yes",
+      "year": "<1994"
+    },
+    "conclusion": {
+      "language": "C++"
+    }
+  },
+  {
+    "conditions": {
+      "paradigm": "object-oriented",
+      "compiled": "yes",
+      "year": ">1994"
+    },
+    "conclusion": {
+      "language": "Java"
+    }
+  },
+  {
+    "conditions": {
+      "paradigm": "multi-paradigm",
+      "compiled": "no",
+      "year": "<1994"
+    },
+    "conclusion": {
+      "language": "Python"
+    }
+  },
+  {
+    "conditions": {
+      "paradigm": "multi-paradigm",
+      "compiled": "yes",
+      "year": ">1994"
+    },
+    "conclusion": {
+      "language": "Scala"
+    }
+  },
+  {
+    "conditions": {
+      "paradigm": "logical"
+    },
+    "conclusion": {
+      "language": "Prolog"
+    }
+  },
+  {
+    "conditions": {
+      "paradigm": "functional",
+      "year": ">1994"
+    },
+    "conclusion": {
+      "language": "Limbo"
+    }
+  },
+  {
+    "conditions": {
+      "paradigm": "functional",
+      "year": "<1994"
+    },
+    "conclusion": {
+      "language": "Lua"
+    }
+  },
+  {
+    "conditions": {
+      "paradigm": "object-oriented"
+    },
+    "conclusion": {
+      "compiled": "yes"
+    }
+  },
+  {
+    "conditions": {
+      "paradigm": "multi-paradigm",
+      "year": ">1994"
+    },
+    "conclusion": {
+      "compiled": "yes"
+    }
+  },
+  {
+    "conditions": {
+      "paradigm": "multi-paradigm",
+      "year": "<1994"
+    },
+    "conclusion": {
+      "compiled": "no"
+    }
+  },
+  {
+    "conditions": {
+      "paradigm": "logical"
+    },
+    "conclusion": {
+      "compiled": "no"
+    }
+  },
+  {
+    "conditions": {
+      "paradigm": "functional"
+    },
+    "conclusion": {
+      "compiled": "no"
+    }
+  }
+]
